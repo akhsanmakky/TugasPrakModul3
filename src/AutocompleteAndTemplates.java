@@ -3,9 +3,12 @@ import com.sun.tools.javac.Main;
 import java.util.Scanner ;
 
 public class AutocompleteAndTemplates {
-
-    public String nama;
-    public int tanggallahir;
+    /**
+     * class
+     * class autocompleteandtemplates
+     */
+    public String nama; //ini nama
+    public int tanggallahir;  //tanngal
     public int bulanlahir;
     public int tahunlahir;
 
