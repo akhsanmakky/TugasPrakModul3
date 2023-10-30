@@ -7,7 +7,7 @@ public class AutocompleteAndTemplates {
      * class
      * class autocompleteandtemplates
      */
-    public String nama;
+    public String nama; //nama
     public int tanggallahir;
     public int bulanlahir;
     public int tahunlahir;
